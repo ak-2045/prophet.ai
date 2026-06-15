@@ -1,14 +1,7 @@
 from typing import Dict
 
 class TradeSetupGenerator:
-    """
-    Generates educational trade setups based on
-    market structure and indicator analysis.
-
-    This is NOT a signal generator.
-    It only creates explainable trade scenarios.
-    """
-
+    
     def generate(
         self,
         current_price: float,
