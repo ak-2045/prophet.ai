@@ -3,14 +3,7 @@ import pandas as pd
 
 
 class MarketDataService:
-    """
-    Responsible for all market data operations.
-
-    Features:
-    - Live market information
-    - Historical OHLC data
-    - Multi-asset support
-    """
+    
 
     def __init__(self):
         self.ticker = None
