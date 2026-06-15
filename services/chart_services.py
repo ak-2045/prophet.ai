@@ -3,21 +3,6 @@ from plotly.subplots import make_subplots
 
 
 class ChartService:
-    """
-    Responsible for all chart generation.
-
-    Supported:
-    - Candlestick Chart
-    - Price Line Chart
-    - Volume Chart
-
-    Future:
-    - RSI
-    - MACD
-    - Moving Averages
-    - Trade Levels
-    """
-
     # ----------------------------------
     # Candlestick Chart
     # ----------------------------------
