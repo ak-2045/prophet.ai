@@ -1,6 +1,6 @@
 ## Ready to Consult the Oracle?
 
-<img src="assets/images/prophet.png" alt="prophet" width="800"/>
+<img src="assets/images/prophet.png" alt="prophet" width="500"/>
 
 **Prophet** is an AI-powered trading mentor that analyzes market structure, interprets technical indicators, evaluates risk, and explains its reasoning in simple language. Built to educate rather than predict, it helps beginner traders understand the **why** behind every trading setup.
 
