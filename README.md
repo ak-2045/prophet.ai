@@ -216,8 +216,6 @@ GEMINI_API_KEY="your_api_key_here"
 
 ---
 
----
-
 ## Conclusion
 
 Prophet combines technical indicators with AI-generated explanations to make market analysis more accessible, interpretable, and engaging. While it can highlight patterns, summarize signals, and explain the reasoning behind common trading indicators, the final investment decision should always remain with the user.
